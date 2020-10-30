@@ -63,7 +63,7 @@ function userinput() //This is a function.
                      
                      for(i=0;i<getlength;i++) // for loop that runs getlength times 
                      {
-                      newpassword += choicearray[Math.floor(Math.random() * (choicearray.length-1))]; //creating the random opassword by using Math.random function
+                      newpassword += choicearray[Math.floor(Math.random() * (choicearray.length))]; //creating the random opassword by using Math.random function
                   
                       }
                     return newpassword; //returning the value of generated password
