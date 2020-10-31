@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1> #Password-Generator</h1>
 
 <h1>Description</h1>
@@ -50,6 +48,3 @@ This Assignment doesnt have any issues.
 Checkboxes could be used to select what kinds of values should be included in the password generation and a text area box could be used for password display. Approrpriate form aria attributes could also be used to improve the accessibility of the page.
 
 A second button could also be added to copy the contents of the password into the clipboard.
-=======
-# Password_generator
->>>>>>> 518c4c3ae952800d836f6b39381c1e42894f93a4
